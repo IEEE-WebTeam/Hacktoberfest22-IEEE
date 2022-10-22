@@ -49,7 +49,7 @@ Go to the folder where you want to clone this project then do the following.
 Clone the project
 
 ```bash
-  git clone https://github.com/captainWaheed/Hacktoberfest22-IEEE.git
+  git clone https://github.com/IEEE-WebTeam/Hacktoberfest22-IEEE.git
 ```
 
 Open the folder in the code editor of your choice and make the changes.
